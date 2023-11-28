@@ -4,6 +4,12 @@ Travel Industry, Property management and Tourism
 Problem Statement :
 This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
 
+NAME : SASIKALA THENNARASU
+
+BATCH: DTM5
+
+DOMAIN : DATA SCIENCE
+
 Airbnb Dashboard Link : Click to view my Dashboard
 
 Libraries/Modules needed for the project:
