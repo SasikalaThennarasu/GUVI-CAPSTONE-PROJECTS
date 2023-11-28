@@ -8,10 +8,6 @@ BATCH: DTM5
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL: 
-
-LINKED IN URL : 
-
 The application should have the following features:
 
 $ Ability to input a YouTube channel ID and retrieve all the relevant data (Channel name, subscribers, total video count, playlist ID, video ID, likes, dislikes, comments of each video) using Google API.
